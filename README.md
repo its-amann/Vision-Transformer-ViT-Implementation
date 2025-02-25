@@ -1,4 +1,4 @@
-# Vision Transformer (ViT) Implementation 🚀
+# Vision Transformer (ViT) Implementation 🚀 
 
 <div align="center">
 
